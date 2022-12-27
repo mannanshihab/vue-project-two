@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as _,a as t}from"./index-c50fe781.js";const n={},c={class:"new"},o=t("h1",null,"This is an new page",-1),a=[o];function i(r,d){return s(),_("div",c,a)}const f=e(n,[["render",i]]);export{f as default};
